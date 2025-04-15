@@ -52,10 +52,5 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
-<a href="mailto: medv.evgenii@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
 </div>
 
-<sub>Для быстрого ответа лучше использовать Telegram или WhatsApp</sub>
